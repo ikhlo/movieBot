@@ -1,0 +1,12 @@
+{
+    "FB": {
+        "__whatispageAccesToken__": "your Access Token of your Messenger Chatbot for your Facebook page",
+        "pageAccessToken": "YOUR_TOKEN",
+        "__whatisVerifyToken__": "your Verify Token of your Messenger Chatbot for your Facebook page",
+        "VerifyToken": "YOUR_VERIFY_TOKEN",
+        "__whatisappSecret__": "Your Secret Code of your Facebook page",
+        "appSecret": "7f048a900e9001ed0b5a6ea324cdbfe2"
+    },
+    "__whatisTMDB__": "Your API KEY of themoviedb.org website",
+    "TMDB": "YOUR_API_KEY"
+}
