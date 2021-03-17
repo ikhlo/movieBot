@@ -6,4 +6,4 @@ For any questions, don't hesitate to contact me or my collegue, we will try our 
 
 ### Collaborators:
 
-<ul><li><a href=https://github.com/ikhlo>Ikhlass YAYA-OYÉ</a></li></ul>
+<ul><li><a href=https://github.com/kevinnclas>Kevin NICOLAS</a></li></ul>
